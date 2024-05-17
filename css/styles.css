@@ -1,0 +1,32 @@
+#lifecity-youtube-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#lifecity-youtube-video {
+    margin-bottom: 20px;
+}
+
+#lifecity-youtube-name-input {
+    margin-top: 20px;
+}
+
+.accordion {
+    margin-top: 20px;
+}
+
+.accordion h3 {
+    cursor: pointer;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 0;
+}
+
+.accordion div {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}

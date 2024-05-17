@@ -4,8 +4,8 @@
  * Description: Automatically embeds YouTube Live video and chat on your website when live.
  * Version: 1.0
  * Author: Padmore Aning
- * Author URL: https://github.com
- * Plugin URL: https://github.com
+ * Author URL: https://designolabs.com
+ * Plugin URL: https://github.com/rizennews/lifecity-youtube-live-embed
  */
 
 if (!defined('ABSPATH')) {

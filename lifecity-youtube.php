@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Lifecity YouTube Live Embed
-  * Plugin URI: https://github.com/rizennews/lifecity-youtube-live-embed
+ * Plugin URI: https://github.com/rizennews/lifecity-youtube-live-embed
  * Description: Automatically embeds YouTube Live video and chat on your website when live.
  * Version: 1.0
  * Author: Padmore Aning

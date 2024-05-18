@@ -1,11 +1,15 @@
 <?php
 /**
  * Plugin Name: Lifecity YouTube Live Embed
+  * Plugin URI: https://github.com/rizennews/lifecity-youtube-live-embed
  * Description: Automatically embeds YouTube Live video and chat on your website when live.
  * Version: 1.0
  * Author: Padmore Aning
- * Author URL: https://designolabs.com
- * Plugin URL: https://github.com/rizennews/lifecity-youtube-live-embed
+ * Author URI: https://designolabs.com
+ * License:  MIT License
+ * Requires at least: 6.0
+ * Tested up to: 6.4
+ * Requires PHP: 7.0
  */
 
 if (!defined('ABSPATH')) {
